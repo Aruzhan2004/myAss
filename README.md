@@ -46,7 +46,6 @@ You will need to provide your own `.env` variables, here's how you can do it:
 - copy the contents and paste it into your own `.env` file
 - make sure you replace the values with your own valid values
 
-> Note: The `NODE_ENV` should either be "development" or "production". This will decide which database to use `MONGO_LOCAL` or `MONGO_ATLAS`
 
 ### Step 4: Run the server
 
