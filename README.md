@@ -33,7 +33,7 @@ git clone https://github.com/Aruzhan2004/myAss.git
 Install dependencies in the root folder
 
 ```sh
-cd myASS
+cd myAss
 npm install
 ```
 
