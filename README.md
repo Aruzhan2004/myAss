@@ -1,4 +1,4 @@
-Try the site on https://shopmip.onrender.com/
+
 
 ## Features
 
@@ -25,7 +25,7 @@ Run the project in your machine locally.
 Clone the repo locally using:
 
 ```sh
-git clone https://github.com/Aruzhan2004/assik4.git
+git clone https://github.com/Aruzhan2004/myAss.git
 ```
 
 ### Step 2: Install Dependencies
@@ -33,7 +33,7 @@ git clone https://github.com/Aruzhan2004/assik4.git
 Install dependencies in the root folder
 
 ```sh
-cd assik4
+cd myASS
 npm install
 ```
 
